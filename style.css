@@ -499,21 +499,25 @@ footer .social-icons a i {
     font-size: 12px;
   }
 
+  .main {
+    width: 140vw;
+    padding: 90px 30px;
+  }
   .services-sec {
+    width: 140vw;
     padding: 50px 30px;
-    width: 100%;
   }
   .project {
+    width: 140vw;
     padding: 50px 30px;
-    width: 100%;
   }
   .contact-me {
+    width: 140vw;
     padding: 50px 30px;
-    width: 100%;
   }
   footer {
     padding: 0px 10px;
-    width: 100%;
+    width: 140vw;
   }
 
   .main-content h2 {
@@ -538,6 +542,7 @@ footer .social-icons a i {
     font-weight: 300;
     color: #ffffff;
   }
+
   footer span {
     font-size: 0.8rem;
     font-weight: 400;
